@@ -1,4 +1,4 @@
-Server: https://discord.gg/kywNxcQuTD
+Server: https://discord.gg/kywNxcQuTD OR https://discord.gg/gcommunity
 
 Discord User: ghosthome#8544
 
