@@ -1,5 +1,3 @@
-Server: https://discord.gg/kywNxcQuTD OR https://discord.gg/gcommunity
-
-Discord User: ghosthome#8544
-
-just some random stuff i do in my free time.
+This is a repo for ROBLOX scripts and spdates.
+- Discord Server: https://discord.gg/kywNxcQuTD OR https://discord.gg/gcommunity
+- Discord User: ghosthome#8544
